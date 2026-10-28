@@ -1,0 +1,9 @@
+# ===== 依赖 =====
+# LangChain 相关
+langchain-openai>=1.0.0
+langchain-core>=1.0.0
+python-dotenv>=1.0.0
+
+# 向量化（ONNX，不需要 torch）
+fastembed>=0.4.0
+numpy>=1.26.0

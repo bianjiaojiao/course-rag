@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 密钥（绝不提交）
+.env
+.env.*
+!.env.example
+
+# 索引缓存（可以随时重建）
+data/
+
+# IDE
+.idea/
+.vscode/
